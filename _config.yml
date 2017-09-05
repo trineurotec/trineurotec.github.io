@@ -4,7 +4,7 @@ permalink:      /:year-:month-:day/:title
 # Setup
 title:          Tale
 paginate:       5
-baseurl:        "/main"
+baseurl:        ""
 url:            "https://chesterhow.github.io/tale"
 
 # Assets
