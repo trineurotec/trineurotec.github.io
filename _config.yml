@@ -4,7 +4,7 @@ permalink:      /:year-:month-:day/:title
 # Setup
 title:          Trineurotec
 paginate:       5
-baseurl:        “/research“
+baseurl:        “/research/“
 url:            "https://trineurotec.github.io"
 
 # Assets
