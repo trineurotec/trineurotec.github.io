@@ -4,8 +4,8 @@ permalink:      /:year-:month-:day/:title
 # Setup
 title:          Trineurotec
 paginate:       5
-baseurl:        “/research“
-url:            "https://chesterhow.github.io/tale"
+baseurl:        “/research/“
+url:            "https://trineurotec.github.io/research"
 
 # Assets
 sass:
