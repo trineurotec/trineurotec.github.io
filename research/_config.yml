@@ -2,9 +2,9 @@
 permalink:      /:year-:month-:day/:title
 
 # Setup
-title:          Tale
+title:          Trineurotec
 paginate:       5
-baseurl:        ""
+baseurl:        “/research“
 url:            "https://chesterhow.github.io/tale"
 
 # Assets
