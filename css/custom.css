@@ -1,0 +1,53 @@
+.fh5co-overlay{
+  background: transparent;
+}
+
+.navbar {
+  border: none;
+  -webkit-transition: 0.4s;
+  transition: 0.4s;
+/* --- navbar sizes --- */
+/* --- navbar colors --- */
+}
+.navbar-brand {
+  font-size: 2.25rem;
+  font-weight: 900;
+  color: #4b4b4b;
+}
+.navbar--size--xl {
+  padding: 4rem 0;
+}
+.navbar--size--lg {
+  padding: 2rem 0;
+}
+.navbar--size--md {
+  padding: 1rem 0;
+}
+.navbar--size--sm {
+  padding: 0;
+}
+.navbar--color--white {
+  background: #fff;
+  border-bottom: solid 1px #e8e8e8;
+}
+
+.navbar--color--white a{
+  color: #848484;
+  font-family: "Source Sans Pro", Arial, sans-serif;
+  font-weight: 300;
+}
+.navbar--color--primary {
+  background: #37ca7e;
+}
+.navbar--color--secondary {
+  background: #43a6dd;
+}
+.navbar--color--ghost {
+  background: transparent;
+}
+.navbar--color--ghost .navbar-brand,
+.navbar--color--ghost .navbar-text,
+.navbar--color--ghost a {
+  color: #fff;
+  font-weight: 300;
+}
