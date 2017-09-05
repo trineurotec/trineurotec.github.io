@@ -5,7 +5,7 @@ permalink:      /:year-:month-:day/:title
 title:          Trineurotec
 paginate:       5
 baseurl:        “/research“
-url:            "https://trineurotec.github.io/research"
+url:            "https://trineurotec.github.io"
 
 # Assets
 sass:
