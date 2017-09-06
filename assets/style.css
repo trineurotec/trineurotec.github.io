@@ -234,7 +234,7 @@ figure {
 .sf-menu ul li:hover a,
 .sf-menu ul li.sfHover a,
 .sf-menu li.active a {
-  color: #fff;
+  color: #FCC72C;
 }
 
 .sf-menu ul li:hover,
@@ -335,7 +335,7 @@ figure {
 }
 
 #fh5co-primary-menu > li > ul li.active > a {
-  color: #FCC72C !important;
+  color: black !important;
 }
 #fh5co-primary-menu > li > .sf-with-ul:after {
   border: none !important;
@@ -355,7 +355,7 @@ figure {
   top: 50%;
   margin-top: -7px;
   content: "\e922";
-  color: rgba(255, 255, 255, 0.5);
+  color: color: #FCC72C !important;
 }
 #fh5co-primary-menu > li > ul li {
   position: relative;
@@ -449,7 +449,7 @@ figure {
   padding: 0 15px;
   font-size: 18px;
   line-height: 34px;
-  color: #575757 !important;
+  color: #FCC72C !important;
   text-transform: none;
   background: none;
 }

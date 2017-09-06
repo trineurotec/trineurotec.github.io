@@ -1,0 +1,66 @@
+<style>
+  .section{
+    padding: 40px 20px;
+    display: block;
+  }
+
+  .container{
+    max-width: 800px;
+    margin: 0 auto;
+  }
+
+  .article{
+    display: block;
+  }
+
+  .title{
+    line-height: 1.25;
+    font-size: 24px;
+    color: #222324;
+    font-weight: 300;
+    word-break: break-word;
+  }
+
+  body{
+    font-family: "游ゴシック", YuGothic, "ヒラギノ角ゴ Pro", "Hiragino Kaku Gothic Pro", "メイリオ", "Meiryo", sans-serif;
+  }
+
+  .subtitle .is-5{
+    font-size: 18px;
+  }
+
+  .title a{
+    color: #222324;
+    cursor: pointer;
+    transition: none 86ms ease-out;s
+
+  }
+
+  .content{
+    font-size: 16px;
+    line-height: 1.75;
+  }
+
+
+  h1{
+    margin-bottom: 20px;
+
+  }
+</style>
+
+<div class="section">
+  <div class="container-research">
+    {% for post in site.posts %}
+    <div class="article">
+      <h1 class="title" href="{{ post.url | relative_url }}">{{ post.title | escape }}</h1>
+      {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+      <h2 class="subtitle is-5">{{ post.date | date: date_format }}</h2>
+
+      <div class="content">
+
+      </div>
+
+    </div>
+    {% endfor %}
+  </div>
+</div>

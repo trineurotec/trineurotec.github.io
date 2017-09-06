@@ -1,0 +1,55 @@
+---
+layout: default
+---
+
+<div id="fh5co-wrapper">
+
+<div id="fh5co-page">
+
+  <nav class="navbar navbar--size--md navbar--color--white">
+    <div class="container">
+      <h1 class="navbar-text"><a href="index.html">Tri<span style="color:#FCC72C">neuro</span>tec</a></h1>
+      <div class="collapse navbar-collapse" id="mobileNav" style="margin-top: 11px;">
+        <ul class="sf-menu" id="fh5co-primary-menu">
+          <li>
+            <a id="homeNav" href="index.html">Home</a>
+          </li>
+          <li><a id="aboutNav" href="../../../../../about.html" >About</a></li>
+          <li><a id="whatNav" href="../../../../../what.html" >What we do</a></li>
+          <li><a id="productsNav" href="../../../../../products.html" >Products</a></li>
+          <li class="active"><a id="researchNav" href="../../../../../research.html" >Research</a></li>
+          <li><a id="contactNav" href="../../../../../contact.html" >Contact</a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <div class="section" style="padding:70px 100px; font-family: "游ゴシック", YuGothic, "ヒラギノ角ゴ Pro", "Hiragino Kaku Gothic Pro", "メイリオ", "Meiryo", sans-serif;">
+    <div class="container-research">
+      <div class="post">
+
+        <h3 class="post-title" style="font-weight: 300;">{{ page.title }}</h3>
+        <div class="post-info">
+          <span>Written by&nbsp;</span>{{ page.author }}
+
+          {% if page.date %}
+            <br>
+            <span>on&nbsp;</span><time datetime="{{ page.date }}">{{ page.date | date: "%B %d, %Y" }}</time>
+          {% endif %}
+        </div>
+        <br>
+        <br>
+        <div class="post-line"></div>
+
+        {{ content }}
+
+      </div>
+    </div>
+  </div>
+
+
+
+
+</div>
+
+</div>
