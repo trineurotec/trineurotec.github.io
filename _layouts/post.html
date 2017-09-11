@@ -30,12 +30,8 @@ layout: default
 
         <h3 class="post-title" style="font-weight: 300;">{{ page.title }}</h3>
         <div class="post-info">
-          <span>Written by&nbsp;</span>{{ page.author }}
+          <span>&nbsp;</span>{{ page.author }}
 
-          {% if page.date %}
-            <br>
-            <span>on&nbsp;</span><time datetime="{{ page.date }}">{{ page.date | date: "%B %d, %Y" }}</time>
-          {% endif %}
         </div>
         <br>
         <br>
