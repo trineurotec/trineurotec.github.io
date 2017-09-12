@@ -246,7 +246,7 @@
 		delay: 800,
 		animation: {opacity: 'show'},
 		animationOut: {opacity: 'hide'},
-		speed: 'normal',
+		speed: 'fast',
 		speedOut: 'fast',
 		cssArrows: true,
 		disableHI: false,
