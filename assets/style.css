@@ -532,8 +532,8 @@ figure {
   position: absolute;
   top: 50%;
   bottom: 20px;
-  left: 20px;
-  right: 20px;
+  left: 10px;
+  right: 10px;
   margin-top: -25px;
 }
 .fh5co-grid .image-popup .prod-title h3 {

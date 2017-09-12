@@ -129,4 +129,4 @@ setInterval(function () {
     };
   };
   // take a breath.. hold event listener from firing for 100ms
-}, 100);
+}, 50);

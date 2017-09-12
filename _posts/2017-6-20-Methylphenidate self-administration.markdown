@@ -1,0 +1,8 @@
+---
+layout: post
+title:  Methylphenidate self-administration and conditioned place preference in an animal model of attention-deficit hyperactivity disorder the spontaneously hypertensive rat
+categories: jekyll update
+author: dela Peńa IC, Ahn HS, Choi JY, Shin CY, Ryu JH, Cheong JH
+---
+
+The abuse potential of methylphenidate, the most commonly used drug for attention-deficit hyperactivitydisorder (ADHD), has been shown in many studies. However, it is not yet known whether methylphenidate has reinforcing or rewarding effects in any animal model of ADHD. In this study, we investigated whether methylphenidate facilitates self-administration and induces conditioned place preference in the spontaneously hypertensive rat (SHR), the most validated animal model of ADHD. We also explored whether the behavioral responses of SHR differ from those of Wistar rats, the strain representing the 'normal' heterogeneous population. ADHD is highly prevalent among adolescents, such that behavioral assays should be conducted in adolescent SHR. In line with this, we carried out conditioned place preference tests in adolescent SHR and Wistar rats and observed strain and age-related differences in behavioral responses to the motivational effects of methylphenidate. Self-administration tests confirmed the reinforcing effect of methylphenidate in SHR, and showed that, in FR2 and FR3 schedules, SHR responded more to methylphenidate infusions than the Wistar rats. In conditioned place preference tests, both strains responded similarly to the rewarding effects of methylphenidate. However, it was found that adolescence also alters the euphorigenic effects of methylphenidate, most especially in SHR. The implications of these findings are discussed.
