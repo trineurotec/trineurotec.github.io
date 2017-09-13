@@ -1,0 +1,10 @@
+---
+layout: post
+title:  High sucrose consumption during pregnancy induced ADHD-like behavioral phenotypes in mice offspring.
+categories: jekyll update
+author: Choi CS, Kim P, Park JH, Gonzales EL, Kim KC, Cho KS, Ko MJ, Yang SM, Seung H, Han SH, Ryu JH, Cheong JH, Shin CY.
+journal: J Nutr Biochem
+---
+
+In recent years, the average consumption of sugar in humans from all ages has remarkably increased,
+exceeding the recommended limit. Pregnancy is a critical time for the global development of offsprings who are vulnerable to the deleterious effects of environmental factors. In this study, we investigated whether high sucrose consumption during pregnancy could affect the attention-deficit hyperactivity disorder (ADHD)-like neurobehavioral outcomes in offspring mice. Pregnant mice were randomly grouped and orally administered with either water as control (Con) or 30% wt/vol sucrose diluted in water at 6 (Suc6) or 9 (Suc9) g/kg dosage per day from gestational days 6 to 15. After the weaning period, offspring mice underwent a series of behavioral testing for locomotor activity, attention, and impulsivity. Although there is no obvious difference in gross development of offspring mice such as weight gain, high sucrose-exposed offspring mice showed a significantly increased locomotor activity. Moreover, these mice exhibited a dose-dependent decrease in attention and increase in impulsivity. In the striatum, a significantly increased dopamine transporter (DAT) mRNA expression was found in the Suc9 group along with dose-dependent decreases in the Drd1, Drd2 and Drd4 dopamine receptor subtypes. Furthermore, synaptosomal DAT protein expression was increased about twofold in the Suc9 group. Prenatal fructose exposure also induced hyperactive behavior in offspring mice suggesting the essential role of fructose in the dysregulated neurobehavioral development. These findings suggest prenatal sucrose consumption as a new risk factor for ADHD, which may need further attention and investigation in humans.

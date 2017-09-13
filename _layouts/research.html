@@ -32,7 +32,7 @@ layout: default
       <div class="article" style="min-height: 200px; margin-bottom: 50px;">
         <h1 class="title" style="color: #222324;line-height: 1.25;font-size: 24px;font-weight: 300;word-break: break-word;"><a href="{{ post.url | relative_url }}" style="color: #222324;">{{ post.title | escape }}</a></h1>
         {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-        <h2 class="subtitle is-5" style="font-size: 18px;margin-top: -15px;margin-bottom: 20px;color: #69707a;line-height: 1.125;font-weight: 300;word-break: break-word;">{{ post.date | date: date_format }}</h2>
+        <h2 class="subtitle is-5" style="font-size: 18px;margin-top: -15px;margin-bottom: 20px;color: #69707a;line-height: 1.125;font-weight: 300;word-break: break-word;">{{ post.journal }}. &nbsp; {{ post.date | date: date_format }}</h2>
 
         <div class="content" style="font-size: 16px;line-height: 1.75;color: #42464c;">
           {{ post.content | truncatewords: 100 | strip_html }}

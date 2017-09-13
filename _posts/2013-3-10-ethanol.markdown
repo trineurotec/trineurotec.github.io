@@ -1,0 +1,9 @@
+---
+layout: post
+title:  Effects of ethanol exposure during early pregnancy in hyperactive, inattentive and impulsive behaviors and MeCP2 expression in rodent offspring
+categories: jekyll update
+author: Kim P, Park JH, Choi CS, Choi I, Joo SH, Kim MK, Kim SY, Kim KC, Park SH, Kwon KJ, Lee J, Han SH, Ryu JH, Cheong JH, Han JY, Ko KN, Shin CY
+journal: Neurochem Res
+---
+
+Prenatal exposure to alcohol has consistently been associated with adverse effects on neurodevelopment, which is collectively called fetal alcohol spectrum disorder (FASD). Increasing evidence suggest that prenatal exposure to alcohol increases the risk of developing attention deficit/hyperactivity disorder-like behavior in human. In this study, we investigated the behavioral effects of prenatal exposure to EtOH in offspring mice and rats focusing on hyperactivity and impulsivity. We also examined changes in dopamine transporter and MeCP2 expression, which may underlie as a key neurobiological and epigenetic determinant in FASD and hyperactive, inattentive and impulsive behaviors. Mouse or rat offspring born from dam exposed to alcohol during pregnancy (EtOH group) showed hyper locomotive activity, attention deficit and impulsivity. EtOH group also showed increased dopamine transporter and norepinephrine transporter level compared to control group in the prefrontal cortex and striatum. Prenatal exposure to EtOH also significantly decreased the expression of MeCP2 in both prefrontal cortex and striatum. These results suggest that prenatal exposure to EtOH induces hyperactive, inattentive and impulsive behaviors in rodent offspring that might be related to global epigenetic changes as well as aberration in catecholamine neurotransmitter transporter system.
