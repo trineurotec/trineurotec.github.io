@@ -1,3 +1,78 @@
+button {
+  outline: none;
+  height: 50px;
+  text-align: center;
+  width: 150px;
+  border-radius: 20px;
+  background: transparent;
+  border: 2px solid #FFF;
+  color: #FFF;
+  letter-spacing: 1px;
+  text-shadow: 0;
+  font-size: 18px;
+  font-weight: bold;
+  cursor: pointer;
+  -webkit-transition: all 0.25s ease;
+  transition: all 0.25s ease;
+}
+button:hover {
+  color: white;
+  background: #FCC72C;
+  border: 2px solid #FCC72C;
+}
+button:active {
+  letter-spacing: 2px;
+}
+
+
+.onclic {
+  width: 40px;
+  border-width: 3px;
+  border: 2px solid #FFF;
+  font-size: 0;
+  border-left-color: #FCC72C;
+  -webkit-animation: rotating 2s 0.25s linear infinite;
+          animation: rotating 2s 0.25s linear infinite;
+}
+
+.onclic:hover {
+  color: #FCC72C;
+  background: white;
+}
+
+.validate {
+  font-size: 13px;
+  color: white;
+  background: #FCC72C;
+}
+.validate:after {
+  font-family: 'FontAwesome';
+  content: "\f00c";
+}
+
+@-webkit-keyframes rotating {
+  from {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
+  }
+  to {
+    -webkit-transform: rotate(360deg);
+            transform: rotate(360deg);
+  }
+}
+
+@keyframes rotating {
+  from {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
+  }
+  to {
+    -webkit-transform: rotate(360deg);
+            transform: rotate(360deg);
+  }
+}
+
+
 .title a:hover, .subtitle a:hover{
   border-bottom: 1px solid;
 }

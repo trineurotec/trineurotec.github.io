@@ -1,3 +1,22 @@
+$(function() {
+  $( "#button" ).click(function() {
+    $( "#button" ).addClass( "onclic", 250, validate);
+  });
+
+  function validate() {
+    setTimeout(function() {
+      $( "#button" ).removeClass( "onclic" );
+      $( "#button" ).addClass( "validate", 450, callback );
+    }, 2250 );
+  }
+    function callback() {
+      setTimeout(function() {
+        $( "#button" ).removeClass( "validate" );
+      }, 1250 );
+    }
+  });
+
+
 $(document).on('click', 'a', function(event){
     event.preventDefault();
 
@@ -111,16 +130,16 @@ setInterval(function () {
     if ($(window).scrollTop() < 700) {
       pressedHome();
 
-    } else if ($(window).scrollTop() < 1800) {
+    } else if ($(window).scrollTop() < 1780) {
       pressedAbout();
 
-    } else if ($(window).scrollTop() < 2615) {
+    } else if ($(window).scrollTop() < 2580) {
       pressedWhat();
 
-    } else if ($(window).scrollTop() < 3430) {
+    } else if ($(window).scrollTop() < 3400) {
       pressedProducts();
 
-    } else if ($(window).scrollTop() < 4610) {
+    } else if ($(window).scrollTop() < 4460) {
       pressedResearch();
 
     } else{
