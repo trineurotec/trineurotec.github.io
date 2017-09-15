@@ -19,6 +19,7 @@ button:hover {
   color: white;
   background: #FCC72C;
   border: 2px solid #FCC72C;
+  content: "Trineurotec"
 }
 button:active {
   letter-spacing: 2px;
