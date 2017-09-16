@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Methylphenidate self-administration and conditioned place preference in an animal model of attention-deficit hyperactivity disorder the spontaneously hypertensive rat
-categories: jekyll update
+categories: trineurotec
 author: dela Peńa IC, Ahn HS, Choi JY, Shin CY, Ryu JH, Cheong JH
 journal: Behav Pharmacol
 ---

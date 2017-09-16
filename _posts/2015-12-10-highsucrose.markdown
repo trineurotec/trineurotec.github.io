@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  High sucrose consumption during pregnancy induced ADHD-like behavioral phenotypes in mice offspring.
-categories: jekyll update
+categories: trineurotec
 author: Choi CS, Kim P, Park JH, Gonzales EL, Kim KC, Cho KS, Ko MJ, Yang SM, Seung H, Han SH, Ryu JH, Cheong JH, Shin CY.
 journal: J Nutr Biochem
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Effects of atomoxetine on hyper-locomotive activity of the prenatally valproate-exposed rat offspring.
-categories: jekyll update
+categories: trineurotec
 author: Choi CS, Hong M, Kim KC, Kim JW, Yang SM, Seung H, Ko MJ, Choi DH, You JS, Shin CY, Bahn GH
 journal: Biomol Ther (Seoul)
 ---

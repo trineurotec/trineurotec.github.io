@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  5,7-Dihydroxy-6-methoxy-4'-phenoxyflavone, a derivative of oroxylin A improves attention-deficit/hyperactivity disorder (ADHD)-like behaviors in spontaneously hypertensive rats
-categories: jekyll update
+categories: trineurotec
 author: dela Peña IC, Young Yoon S, Kim Y, Park H, Man Kim K, Hoon Ryu J, Young Shin C, Hoon Cheong J
 journal: Eur J Pharmaco
 ---

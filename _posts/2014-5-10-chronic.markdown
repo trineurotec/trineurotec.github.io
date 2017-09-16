@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Chronic exposure to ethanol of male mice before mating produces attention deficit hyperactivity disorder-like phenotype along with epigenetic dysregulation of dopamine transporter expression in mouse offspring.
-categories: jekyll update
+categories: trineurotec
 author: Kim P, Choi CS, Park JH, Joo SH, Kim SY, Ko HM, Kim KC, Jeon SJ, Park SH, Han SH, Ryu JH, Cheong JH, Han JY, Ko KN, Shin CY
 journal: J Neurosci Res
 ---

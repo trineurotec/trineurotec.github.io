@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Conditioned place preference studies with atomoxetine in an animal model of ADHD effects of previous atomoxetine treatment
-categories: jekyll update
+categories: trineurotec
 author: dela Peña IC, Ahn HS, Ryu JH, Shin CY, Park IH, Cheong JH
 journal: Eur J Pharmacol
 ---

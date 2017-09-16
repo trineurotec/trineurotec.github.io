@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Effects of Preconceptional Ethanol Consumption on ADHD-Like Symptoms in Sprague-Dawley Rat Offsprings
-categories: jekyll update
+categories: trineurotec
 author: Choi I, Kim P, Joo SH, Kim MK, Park JH, Kim HJ, Ryu JH, Cheong JH, Shin CY
 journal: Biomol Ther (Seoul)
 ---

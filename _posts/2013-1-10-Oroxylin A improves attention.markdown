@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Oroxylin A improves attention deficit hyperactivity disorder-like behaviors in the spontaneously hypertensive rat and inhibits reuptake of dopamine in vitro
-categories: jekyll update
+categories: trineurotec
 author: Yoon SY, dela Peña I, Kim SM, Woo TS, Shin CY, Son KH, Park H, Lee YS, Ryu JH, Jin M, Kim KM, Cheong JH
 journal: Arch Pharm Res
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Prefrontal cortical and striatal transcriptional responses to the reinforcing effect of repeated methylphenidate treatment in the spontaneously hypertensive rat, animal model of attention-deficit/hyperactivity disorder (ADHD).
-categories: jekyll update
+categories: trineurotec
 author: dela Peña I, Kim HJ, Sohn A, Kim BN, Han DH, Ryu JH, Shin CY, Noh M, Cheong JH
 journal: Behav Brain Funct
 ---

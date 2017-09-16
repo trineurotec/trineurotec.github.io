@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  A simple behavioral paradigm to measure impulsive behavior in an animal model of attention deficit hyperactivity disorder (ADHD) of the spontaneously hypertensive rats
-categories: jekyll update
+categories: trineurotec
 author: Kim P, Choi I, Pena IC, Kim HJ, Kwon KJ, Park JH, Han SH, Ryu JH, Cheong JH, Shin CY
 journal: Biomol Ther (Seoul)
 ---

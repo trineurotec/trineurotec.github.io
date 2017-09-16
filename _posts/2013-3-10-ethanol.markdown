@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Effects of ethanol exposure during early pregnancy in hyperactive, inattentive and impulsive behaviors and MeCP2 expression in rodent offspring
-categories: jekyll update
+categories: trineurotec
 author: Kim P, Park JH, Choi CS, Choi I, Joo SH, Kim MK, Kim SY, Kim KC, Park SH, Kwon KJ, Lee J, Han SH, Ryu JH, Cheong JH, Han JY, Ko KN, Shin CY
 journal: Neurochem Res
 ---
