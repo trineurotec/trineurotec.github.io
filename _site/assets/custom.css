@@ -1,3 +1,35 @@
+.sf-menu-venti li:hover a{
+  color: #00BCD4 !important;
+}
+
+.sf-menu-venti li.active a{
+  color: #00BCD4 !important;
+}
+
+.sf-menu-i li:hover a{
+  color: #009688 !important;
+}
+
+.sf-menu-i li.active a{
+  color: #009688 !important;
+}
+
+
+.btn-venti{
+  background: #00BCD4 !important;
+}
+
+.btn-i{
+  background: #009688 !important;
+}
+
+.heading-section-venti:after{
+  background: #00BCD4 !important;
+}
+.heading-section-i:after{
+  background: #009688 !important;
+}
+
 button {
   outline: none;
   height: 50px;
@@ -19,58 +51,21 @@ button:hover {
   color: white;
   background: #FCC72C;
   border: 2px solid #FCC72C;
-  content: "Trineurotec"
 }
 button:active {
   letter-spacing: 2px;
 }
 
-
-.onclic {
-  width: 40px;
-  border-width: 3px;
-  border: 2px solid #FFF;
-  font-size: 0;
-  border-left-color: #FCC72C;
-  -webkit-animation: rotating 2s 0.25s linear infinite;
-          animation: rotating 2s 0.25s linear infinite;
-}
-
-.onclic:hover {
-  color: #FCC72C;
-  background: white;
-}
-
-.validate {
-  font-size: 13px;
+#button_venti:hover {
   color: white;
-  background: #FCC72C;
-}
-.validate:after {
-  font-family: 'FontAwesome';
-  content: "\f00c";
+  background: #00BCD4;
+  border: 2px solid #00BCD4;
 }
 
-@-webkit-keyframes rotating {
-  from {
-    -webkit-transform: rotate(0deg);
-            transform: rotate(0deg);
-  }
-  to {
-    -webkit-transform: rotate(360deg);
-            transform: rotate(360deg);
-  }
-}
-
-@keyframes rotating {
-  from {
-    -webkit-transform: rotate(0deg);
-            transform: rotate(0deg);
-  }
-  to {
-    -webkit-transform: rotate(360deg);
-            transform: rotate(360deg);
-  }
+#button_i:hover {
+  color: white;
+  background: #009688;
+  border: 2px solid #009688;
 }
 
 
@@ -191,21 +186,3 @@ img {
     margin-right: auto;
     margin-top: -130px;
 }
-
-.wind-portrait {
-    height: 100px;
-    width: 100px;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-.image {
-    width: 100px;
-    height: 100px;
-    -webkit-animation:spin 20s linear infinite;
-    -moz-animation:spin 20s linear infinite;
-    animation:spin 20s linear infinite;
-}
-@-moz-keyframes spin { 100% { -moz-transform: rotate(360deg); } }
-@-webkit-keyframes spin { 100% { -webkit-transform: rotate(360deg); } }
-@keyframes spin { 100% { -webkit-transform: rotate(360deg); transform:rotate(360deg); } }
