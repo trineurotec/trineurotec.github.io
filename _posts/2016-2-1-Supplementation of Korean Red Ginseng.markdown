@@ -24,3 +24,6 @@ VPA-exposed mice showed sociability and social novelty preference deficits, hype
 
 CONCLUSION:
 As a food and herbal supplement with various known benefits, KRG demonstrated its therapeutic potential in rescuing abnormal behaviors related to autism caused by prenatal environmental exposure to VPA.
+
+
+[Read More](https://www.ncbi.nlm.nih.gov/pubmed/26837496)
