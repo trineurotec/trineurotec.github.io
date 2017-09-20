@@ -3,7 +3,7 @@ layout: post
 title:  Prefrontal cortical and striatal transcriptional responses to the reinforcing effect of repeated methylphenidate treatment in the spontaneously hypertensive rat, animal model of attention-deficit/hyperactivity disorder (ADHD).
 categories: trineurotec
 author: dela Peña I, Kim HJ, Sohn A, Kim BN, Han DH, Ryu JH, Shin CY, Noh M, Cheong JH
-journal: Behav Brain Funct
+journal: [Behav Brain Funct](https://www.ncbi.nlm.nih.gov/pubmed/?term=Prefrontal+cortical+and+striatal+transcriptional+responses+to+the+reinforcing+effect+of+repeated+methylphenidate+treatment+in+the+spontaneously+hypertensive+rat%2C+animal+model+of+attention-deficit%2Fhyperactivity+disorder+(ADHD)."Behav Brain Funct")
 ---
 
 BACKGROUND:Methylphenidate is the most commonly used stimulant drug for the treatment of attention-deficit/hyperactivity disorder(ADHD). Research has found that methylphenidate is a "reinforcer" and that individuals with ADHD also abuse this medication. Nevertheless, the molecular consequences of long-term recreational methylphenidate use or abuse in individuals with ADHD are not yet fully known.
